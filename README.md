@@ -1,19 +1,6 @@
-### Hyprland Dotfiles!
+# Hyprland Dotfiles!
 
-<img src="images/Desktop.png" alt="img" align="right" width="400px">
-
-Here are some details about my setup:
-
-- **WM:** [hyprland](https://hyprland.org/)
-- **OS:** [Fedora](https://fedoraproject.org/)
-- **Terminal:** [kitty](https://github.com/kovidgoyal/kitty)
-- **Shell:** [fish](https://github.com/fish-shell/fish-shell)
-- **Editor:** [neovim](https://github.com/neovim/neovim)
-- **Browser:** [firefox](https://www.mozilla.org/en-US/firefox)
-- **File Manager:** [thunar](https://github.com/xfce-mirror/thunar)
-- **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
-
----
+<img src="images/Desktop.png" alt="img">
 
 ## Setup.
 
@@ -47,17 +34,9 @@ Here are some details about my setup:
  $ chsh -s /usr/bin/fish
 ```
 
-## Miscellaneous.
-
-- **Spicetify theme**
-
-  > Im using Bloom Theme if your interested you can install [spicetify](https://spicetify.app/)
-
-<img src="images/Spotify.png" alt="img" align="center" width="400px" style="border-radius:20px">
-
 ## Acknowledgements.
 
 - **Thanks to**
 
   - [JaKoolLit](https://github.com/JaKooLit/) for some scripts and configs.
-   <br>
+    <br>
